@@ -5,7 +5,8 @@ We use ESP32-cam and OpenCv to drive a car through a lane
 
 - Start by connecting the esp32 cam correctly with FTDI programmer (Read for more: [here](https://randomnerdtutorials.com/program-upload-code-esp32-cam/))
 - Upload the code
-- Remove the loop on esp32, then click the button once
+- Remove the loop on esp32, then click the button once to start code and it will connect to the network
+- Start the python script, but first make sure the ip address for camera is correct
 
 
 ### Incase you get errors while uploading to ESP32 Cam
